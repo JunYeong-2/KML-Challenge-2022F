@@ -10,4 +10,6 @@
 <br>
 
 ## 의의
-- 
+- 실무 raw 데이터 처리 능력 향상
+- Bow, PCA 등 다양한 기법 적용하여 Feature Engineering
+- Catboost, Xgboost, LM 등 다양한 모델 구성하고, 앙상블
