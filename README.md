@@ -26,3 +26,4 @@
 - 과적합 요인을 막기 위해 public score를 보며 앙상블하는 것이 아닌, Cross Validation Stacking 수행
 - Publice score에서 submission1 결과와 비슷한 성능
 - 최종 Private에서 성능 향상
+
