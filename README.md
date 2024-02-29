@@ -12,7 +12,7 @@
 - 실무 raw 데이터 처리 능력 향상
 - Bow, PCA 등 다양한 기법 적용하여 Feature Engineering
 - Catboost, Xgboost, LM 등 다양한 모델 구성하고, 앙상블
-### ⚠ 기업에서 제공 받았기 때문에, 데이터는 공유 불가
+<br>
 
 ## Code
 ### submission1
@@ -26,4 +26,5 @@
 - 과적합 요인을 막기 위해 public score를 보며 앙상블하는 것이 아닌, Cross Validation Stacking 수행
 - Publice score에서 submission1 결과와 비슷한 성능
 - 최종 Private에서 성능 향상
+### ⚠ 기업에서 제공 받았기 때문에, 데이터는 공유 불가
 
